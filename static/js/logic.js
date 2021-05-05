@@ -1,5 +1,30 @@
+// Step 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* NOTE FOR STEP 2
-/  You can use the javascript Promise.all function to make two d3.json calls, 
+/  You can use the javascript Promise.all function to make two d3.json calls,
 /  and your then function will not run until all data has been retreived.
 /
 / ----------------------------------------
@@ -16,4 +41,3 @@
 /    }).catch(e => console.warn(e));
 /
 / ----------------------------------------*/
-
