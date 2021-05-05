@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
+# api key for mapbox
+config.js
