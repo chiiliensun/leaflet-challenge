@@ -1,1 +1,1 @@
-var API_KEY = `pk.eyJ1IjoiY2hpaWxpZW5zdW4iLCJhIjoiY2tuZmNmb3NmMWpuZDJwbWl3c2liMnFzZiJ9.VCOiZ6QvD5cdj_FGAWTjaA`
+var API_KEY = `place_your_API_key_here`
